@@ -31,7 +31,7 @@
     "Desc": "The goal of this project was to design a system that transmits and receives three audio frequency signal transmitted and received via modulation on infrared (IR) signals to turn on an LED at a specific frequency. Any combination of these three frequencies (10 kHz, 17 kHz, and 25 kHz) may be on at a given time.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": ["P1Main.png","BodePlot_DesignProject.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
