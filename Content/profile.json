@@ -28,7 +28,7 @@
 },
 "Project1": {
     "Title": "Frequency Detection Design Project",
-    "Desc": "The goal of this project was to design a system that transmits and receives three audio frequency signal transmitted and received via modulation on infrared (IR) signals to turn on an LED at a specific frequency. Any combination of these three frequencies (10 kHz, 17 kHz, and 25 kHz) may be on at a given time.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Desc": "The goal of this project was to design a system that transmits and receives three audio frequency signal transmitted and received via modulation on infrared (IR) signals to turn on an LED at a specific frequency. Any combination of these three frequencies (10 kHz, 17 kHz, and 25 kHz) may be on at a given time.<br><br>The screenshots illustrates the design process:<br><br>1. Designing the filter in Multisim.<br><br>2. Bode Plot of the filter.<br><br>3. Frequency Response Analysis of the physical circuit.<br><br>4. 5. Filter Output (All three frequencies on).<br><br>6. Filter Output (Only stopping frequencies, 10 and 25 kHz)<br><br>7. Filter with Peak Detector.<br><br>8. Peak detector output (All three frequencies).<br><br>9. Peak detector output (Only stopping frequencies).",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Main.png","BodePlot_DesignProject.png","P1Detail3.png"]
