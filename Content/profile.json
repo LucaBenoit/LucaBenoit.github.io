@@ -38,13 +38,13 @@
     "Desc": "For this project, my team and I are developing a small-scale pumpign kite AWES system, a type of wind energy generator that uses a kite to harness wind energy and generate electricity.",
     "GitHubRepo": "",
     "MainImage": "SystemDesign_edited.png",
-    "DetailImages": ["AWES_conceptSketch.jpg"]
+    "DetailImages": ["SystemDesign_edited.png","AWES_conceptSketch.jpg"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "",
+    "Desc": "",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
+    "MainImage": "",
     "DetailImages": []
   },
   "Project4": {
