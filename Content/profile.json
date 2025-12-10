@@ -20,11 +20,11 @@
   "Graduation": "Expected June 2026",
   "EducationText": "As part of the Electrical Engineering curriculum at SPU, I've been exposed to several learning opportunities related to most of the projects I've worked on.<br><br>Some of my most notable projects relate to power systems for microgrids, PCB design, Power Electronics, and analog filtering.",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Role": "Research and Development Intern",
+  "EmploymentText": "I worked on designing and prototyping a wearable temperature and hydration level monitoring system used for research in human locomotion energetics. My activities included circuit design, integration of temperature and humidity sensors with an ESP32 microcontroller, and development of firmware for real-time data acquisition. In addition, I was responsible for the power management system, which involved sizing the battery for the desired runtime as well as integrating the charge controller circuit and power distribution unit for the other sensors in the wearable.",
+  "Skills": ["Hardware: Oscilloscope, multimeter, power supply, signal generator<br><br>Software: MATLAB, Altium Designer, Python (MicroPython, CircuitPython), C++<br><br>Microcontrollers: Raspberry Pi, Arduino, ESP32<br><br>Simulation/Design: Multisim, LTspice "],
+  "SkillsText": "",
+  "Resume": ""  
 },
 "Project1": {
     "Title": "Frequency Detection Design Project",
