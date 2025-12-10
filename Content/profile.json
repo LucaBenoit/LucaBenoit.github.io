@@ -34,7 +34,7 @@
     "DetailImages": ["P1Main.png","BodePlot_DesignProject.png","FRA_DesignProject.jpg","3freqOn_DesignProject.jpg","StoppingFreqOn_DesignProject.jpg","FilterAndPeakDetector_DesignProject.jpg","PeakDetectorOutput3Freq_DesignProject.jpg","PeakDetectorOutputStoppingOnly_DesignProject.jpg"]
   },
   "Project2": {
-    "Title": "Samll-Scale Pumping Kite AWES",
+    "Title": "Small-Scale Pumping Kite AWES",
     "Desc": "For this project, my team and I are developing a small-scale pumpign kite AWES system, a type of wind energy generator that uses a kite to harness wind energy and generate electricity.",
     "GitHubRepo": "",
     "MainImage": "SystemDesign_edited.png",
