@@ -34,8 +34,8 @@
     "DetailImages": ["P1Main.png","BodePlot_DesignProject.png","FRA_DesignProject.jpg","3freqOn_DesignProject.jpg","StoppingFreqOn_DesignProject.jpg","FilterAndPeakDetector_DesignProject.jpg","PeakDetectorOutput3Freq_DesignProject.jpg","PeakDetectorOutputStoppingOnly_DesignProject.jpg"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Title": "Samll-Scale Pumping Kite AWES",
+    "Desc": "For this project, my team and I are developing a small-scale pumpign kite AWES system, a type of wind energy generator that uses a kite to harness wind energy and generate electricity.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
